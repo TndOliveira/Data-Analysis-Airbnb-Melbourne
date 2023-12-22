@@ -106,7 +106,7 @@ The dashboard is in the following [link](https://public.tableau.com/app/profile/
 <br />
 
 
-You can find the slide presentation in this repository, or if you prefer, in the following [link]()
+You can find the slide presentation in this repository, or if you prefer, in the following [link](https://docs.google.com/presentation/d/11zkJ7jlokoD0D_jFk8lwJAQ2dFbnlvI7YffnaP03EU4/edit?usp=sharing)
 
 
 <br />
@@ -116,10 +116,10 @@ You can find the slide presentation in this repository, or if you prefer, in the
 <br />
 
 
-    👤 Tauan Oliveira
+👤 Tauan Oliveira
 
-    * Kaggle: https://www.kaggle.com/tauanoliveira
+* Kaggle: https://www.kaggle.com/tauanoliveira
 
-    * Tableau: https://public.tableau.com/app/profile/tauan.oliveira/vizzes
+* Tableau: https://public.tableau.com/app/profile/tauan.oliveira/vizzes
 
-    * Github: https://github.com/TndOliveira
+* Github: https://github.com/TndOliveira
